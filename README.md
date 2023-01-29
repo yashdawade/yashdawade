@@ -3,15 +3,14 @@
   ## 🧃: Self-Info
   *-* [He/Him]
  -  A newbie who's tryna figure out cool stuff.
-  ## 📒 Key Notes:
+  ## 📒: Key Notes:
   *"The only note that matters is the one having gandhi on it"*
   - 🧑🏻‍🦱 An Introvert & Tech Enthusiastic.
   - 📻 Experiencing stuff with HTML, CSS & JavaScript.
-  - 📽️ Learning GFX & VFX nowadays!
   - 💭 Always down to chat; [Instagram](https://instagram.com/yashdawade_)
   - 📬 Need Help? Do reach me at: <a href="mailto:ohyashdawade@gmail.com">E-Mail</a>                         
                                     
-  ## 🎪 Programming Stuff!
+  ## 🎪: Programming Stuff!
    - 🖥 Programming Languages : 
   <p align="left">
   &emsp; 
